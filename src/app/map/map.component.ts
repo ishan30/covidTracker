@@ -18,7 +18,6 @@ private map;
   maxZoom: 19,
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 });
- 
   // tslint:disable-next-line:align
   tiles.addTo(this.map);
   }
